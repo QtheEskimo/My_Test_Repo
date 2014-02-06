@@ -7,5 +7,7 @@ This is the second line in the first file.
 
 This is now version 1.1
 
+more comments
+
 */
 ?>
